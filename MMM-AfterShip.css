@@ -1,0 +1,29 @@
+/*
+ *
+ * MMM-AfterShip by vanhoekd
+ *
+ * MIT Licensed.
+ *
+ */
+
+.MMM-AfterShip {
+  font-size: 65%;
+  //line-height: 65px;
+  -ms-transform: translate(0, -3px); /* IE 9 */
+  -webkit-transform: translate(0, -3px); /* Safari */
+  transform: translate(0, -3px);
+}
+
+.MMM-AfterShip table {
+    width: 600px;
+	font-size: 60%;
+	text-align: center;
+}
+
+.MMM-AfterShip .red {
+    color: #FF0000
+}
+
+.MMM-AfterShip .darkgrey {
+    color: #424242
+}
