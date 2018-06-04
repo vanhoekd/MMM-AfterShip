@@ -2,7 +2,7 @@
 
 This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
-It displays all parcels from your AfterShip account.
+It displays all parcels from your AfterShip account. You can add parcels through your phone or their website.
 
 This module is based on the AfterShip.com API <https://docs.aftership.com/api/4/overview>
 
@@ -59,4 +59,4 @@ This module uses the <https://api.aftership.com/v4/trackings> API Which is free 
 
 ## Troubleshooting
 
-I try to maintain this module in best effort. If there is any Problem, please write a detailed description into this forum and i will try to look into it as soon as possible: <https://forum.magicmirror.builders/topic/6342/mmm-swissstationboard>
+I try to maintain this module in best effort. If there is any Problem, please write a detailed description into the forum and i will try to look into it as soon as possible.
